@@ -6,6 +6,6 @@ I enjoy working with both software and hardware.
 
 ###  Technologies I use
 
-- **Languages:** TypeScript, Python, C++, JavaScript (basics), a bit of HTML  
+- **Languages:** TypeScript, Python, C++
 - **Other areas:** CAD, electronics, embedded systems, scripting, tooling
 
